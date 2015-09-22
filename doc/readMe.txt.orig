@@ -1,6 +1,7 @@
-master
+master1
 <<<<<<< HEAD
-1
+hotfix
 =======
->>>>>>> 623d0323d328964f242f20bedaab686001df10b2
-Development
+fixed in s1 v1
+fixed in s1 v2
+>>>>>>> s1
