@@ -1,7 +1,7 @@
-master1
+master
 <<<<<<< HEAD
 hotfix
 =======
-fixed in s1 v1
-fixed in s1 v2
+s1 fixed v1
+s1 fixed v2
 >>>>>>> s1
